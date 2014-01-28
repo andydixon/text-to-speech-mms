@@ -1,0 +1,10 @@
+Convert text to Speech MMS using Textlocal
+
+Quick instructions
+
+apt-get install libttspico0 libttspico-utils libttspico-data lame
+
+Edit the index.php and enter your textlocal email address and password, and update the paths - (a todo will be to use the scripts folder)
+
+Done!
+
